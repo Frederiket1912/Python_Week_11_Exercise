@@ -10,7 +10,7 @@ Vælg format "CSV"
 Vælg adskiller "Semikolon"  
 Klik på "Variabel- og værdikoder" for at udvælge data.
 
-Brug kun data for 2019 i alle opgaverne.
+**Brug kun data for 2019 i alle opgaverne.**
 
 1) Brug api'et til finde ud af hvor meget 16-24 årige benytter sig af de forskellige nyhedsformer.  
 Vis resultatet i et sorteret søjlediagram.
